@@ -1,3 +1,11 @@
 1.Nima
+mob:96435e6
+trissur
+
 2.Smita
+mob:9435
+kollam
+
 3.Aswaty
+mob:9754
+idukki
